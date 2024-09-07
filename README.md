@@ -37,7 +37,6 @@ Once the simulation is running, you can observe the three bodies interacting wit
 
 ### Controls
 
-- **Pause**: You can modify the simulation to include a pause/resume button for better control.
 - **Restart**: Reset the simulation by closing and reopening the application.
 
 ## Customization
