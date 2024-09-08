@@ -1,6 +1,6 @@
 # Three-Body Simulation
 
-This project is inspired by the **"Three-Body Problem"** trilogy by Liu Cixin, which explores the complex and fascinating dynamics of celestial bodies under the influence of gravity. This Java-based simulation aims to model a simplified version of the three-body problem, simulating the gravitational interaction between three bodies in a 2D space.
+This project, inspired by Liu Cixin's Three-Body Problem trilogy, simulates the gravitational interactions of three celestial bodies in 2D space. It reflects the novel's exploration of chaos and unpredictability through a simplified model of the "three-body problem."
 
 ## Features
 
