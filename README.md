@@ -51,10 +51,10 @@ You can easily customize the parameters of the simulation by editing the followi
 
 Planned enhancements include:
 
-- **Advanced force calculation algorithms**: I plan to implement more efficient methods for calculating gravitational forces, such as:
+- **Advanced force calculation algorithms**: Plan to implement more efficient methods for calculating gravitational forces, such as:
   - **Barnes-Hut algorithm**: This approach reduces the complexity of force calculations from \(O(n^2)\) to \(O(n \log n)\), making the simulation scale better for a larger number of bodies.
     
-- **Energy conservation and collision physics**: We will introduce more realistic physical behaviors during collisions, such as handling energy loss and momentum conservation. This will allow for more accurate simulations of inelastic collisions and merging of bodies.
+- **Energy conservation and collision physics**:  Will introduce more realistic physical behaviors during collisions, such as handling energy loss and momentum conservation. This will allow for more accurate simulations of inelastic collisions and merging of bodies.
 
 - **UI enhancements**: Add controls for adjusting the simulation speed, pausing/resuming the simulation, and resetting the bodies.
 
